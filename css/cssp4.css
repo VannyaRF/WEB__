@@ -1,0 +1,24 @@
+h1 {
+    color: black; 
+    background-color:#bcb9ce;
+}
+.areaBonita {
+    border: 1px;
+    border-radius: 10%;
+    background-color: #d4d9c0;
+    color: #454d5e;
+    height: 30px;
+    width: 800px;
+    font-size: 20px;
+
+}
+label{
+    padding-right: 20px;
+}
+.cuerpoFormulario{
+    background-color: rgb(221, 166, 221);
+    color: black;
+    height: 650px;
+    width: 600px;
+    font-size: 20px;
+}
